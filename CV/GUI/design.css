@@ -1,0 +1,20 @@
+nav{
+    background-color:skyblue;
+    height:80px;
+}
+
+.navbar_class{
+    float:right;
+}
+
+li{
+    display: inline;
+}
+
+.navbar_brand{
+    position:relative;
+}
+
+.CV_profile{
+    
+}
